@@ -8,7 +8,7 @@ public class Contains {
      *
      * @param arr array to be manipulated.
      * @param target the value that the method should be searching for.
-     * @return true if arr contains target, false otherwise .
+     * @return true if arr contains target, false otherwise.
      */
     public boolean arrayContains(int[] arr, int target){
         for(int i =0; i <arr.length; i++){
